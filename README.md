@@ -1,6 +1,6 @@
 # create-hex-grids
 
-The script generate-hex-grids.sql generates hexogonal grids in
+The script `generate-hex-grids.sql` generates hexogonal grids in
 PostgreSQL/PostGIS. It is set up to be called from a terminal with the
 parameters as command line arguments. 
 
