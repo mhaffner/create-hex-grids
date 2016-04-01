@@ -11,7 +11,11 @@ Example:
 where
 
 `v1 = diameter of each hexagon in the units of the projection
+
 v2 = minimum x coordinate
+
 v3 = minimum y coordinate
+
 v4 = maximum x coordinate
+
 v5 = maximum y coordinate`
