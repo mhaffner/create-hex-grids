@@ -6,7 +6,7 @@ parameters as command line arguments.
 
 Example:
 
-psql -U <user-name> -d <database-name> -a -f -v v1=1000 -v v2=0 -v v3=0 -v v4=5000 -v v5=5000
+`psql -U <user-name> -d <database-name> -a -f -v v1=1000 -v v2=0 -v v3=0 -v v4=5000 -v v5=5000`
 
 where
 
